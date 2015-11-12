@@ -1,0 +1,9 @@
+Modifications to finish project: 
+install 
+	pysnmp
+	libsmi (go to ubuntu forums and apt-get install all the individual packages under libsmi)
+	snmp-mibs-dowloader
+	smistrip
+	apt-get python-pysnmp4
+	apt-get install snmp
+	apt-get snmpd
